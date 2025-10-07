@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Ngatia Benson Mukuha
 
-🎯 **Software Engineer | ICT Instructor | Data Enthusiast | Problem Solver**
+🎯 **Software Engineer | Techie | ICT Instructor | Data Enthusiast | Problem Solver**
 
-Welcome to my GitHub portfolio! I’m passionate about building impactful digital solutions, teaching technology, and continuously learning across the intersections of software engineering, education, and data-driven innovation.
+Welcome to my GitHub portfolio! I’m passionate about building impactful digital systems, delivering reliable ICT support, and driving technology adoption across institutions and communities.  
+I bridge the gap between **software engineering**, **system administration**, and **digital transformation** — empowering users through secure, efficient, and innovative tech solutions.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently exploring **full-stack web development** with focus on **Next.js, Node.js, and PostgreSQL**.  
+- 💼 An **ICT Officer** with hands-on experience in **system troubleshooting, networking, and software deployment**. 
+- 💼 Currently exploring **full-stack web development** with focus on **Next.js, Node.js, and PostgreSQL**. 
 - 🧠 Graduate of **Machakos University** with a **BSc. in Mathematics and Computer Science (2024)**.  
 - 🧩 Skilled in crafting real-world solutions — from **e-commerce platforms** to **educational tools** and **public sector applications**.  
 - 💬 Passionate about **digital literacy**, **youth mentorship**, and **community technology empowerment**.  
