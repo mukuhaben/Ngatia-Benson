@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ngatia Benson Mukuha
 
-🎯 **Software Engineer | Techie | ICT Instructor | Data Enthusiast | Problem Solver**
+🎯 **Software developer | ICT Officer | ICT Instructor | Data Enthusiast**
 
 Welcome to my GitHub portfolio! I’m passionate about building impactful digital systems, delivering reliable ICT support, and driving technology adoption across institutions and communities.  
 I bridge the gap between **software engineering**, **system administration**, and **digital transformation** — empowering users through secure, efficient, and innovative tech solutions.
@@ -10,7 +10,7 @@ I bridge the gap between **software engineering**, **system administration**, an
 ## 🧑‍💻 About Me
 
 - 💼 An **ICT Officer** with hands-on experience in **system troubleshooting, networking, and software deployment**. 
-- 💼 Currently exploring **full-stack web development** with focus on **Next.js, Node.js, and PostgreSQL**. 
+- 💼 Currently exploring **full-stack web development**. 
 - 🧠 Graduate of **Machakos University** with a **BSc. in Mathematics and Computer Science (2024)**.  
 - 🧩 Skilled in crafting real-world solutions — from **e-commerce platforms** to **educational tools** and **public sector applications**.  
 - 💬 Passionate about **digital literacy**, **youth mentorship**, and **community technology empowerment**.  
@@ -19,7 +19,7 @@ I bridge the gap between **software engineering**, **system administration**, an
 
 ## 🚀 Featured Project
 
-### 🛍️ LaCasa E-Commerce Platform  https://e-commerce-s09-4008-2019.vercel.app
+### 🛍️ E-Commerce Platform  https://e-commerce-s09-4008-2019.vercel.app
 A full-stack e-commerce solution designed with unique tiered pricing, cashback models, and multi-user roles (Admin, Customer, Sales Agent).
 
 **Tech Stack:**  
@@ -30,34 +30,64 @@ A full-stack e-commerce solution designed with unique tiered pricing, cashback m
 - Unique user role system  
 - Responsive and scalable architecture  
 
-> 💡 The project was my Undergraduate Capstone Project  to showcase advanced problem-solving and backend integration skills especially in E-commerece where a soution tailored to Local market was a niche.
+> 💡 The project was my Capstone Project  to showcase advanced problem-solving and backend integration skills especially in E-commerece where a soution tailored to Local market was a niche.
 
 ---
 
 ## 💼 Professional Experience
 
-### 💳 **Diamond Trust Bank (DTB)** — *Service Delivery Officer (Job Shadow)*  
-📍 *Machakos, Kenya (Jan–Mar 2025)*  
-- Learned hands-on banking operations (Flexcube, DCAM, Sybrin)  
-- Supported customer service, cash operations, and system processing  
-- Gained insights into scheme loans, CASA products, and client onboarding  
+### 💳 **Digital Solutions – Oracle ERP ltd ** — *Software developer*  
+📍 *Nairobi (May–Sept 2025)*  
+ - Designed and developed a responsive e-commerce web application using HTML, CSS, 
+JavaScript, aligned with enterprise business workflows. 
+- Implemented frontend user interfaces integrated with backend RESTful APIs within an 
+Oracle ERP-supported environment. 
+- Collaborated with backend developers and system analysts to ensure secure data 
+exchange between application layers. 
+- Applied UI/UX best practices to improve usability, accessibility, and cross-device 
+compatibility. 
+- Used Git-based version control for source code management and collaborative 
+development. 
+- Participated in testing, debugging, and performance optimization of frontend 
+components. 
+- Participated in deployment and post-deployment issue resolution during the contract 
+period.
 
 ### 🤝 **Compassion Kenya (Sultan Hamud & Kilo CDC)** — *ICT Trainer & Mentor*  
 📍 *Kajiado & Makueni Counties (Jan–Mar 2025)*  
-- Trained youths in digital literacy and career guidance  
 - Led mentorship programs enhancing community tech capacity  
 
 ### 🏫 **Machakos Hospitality and Technical Institute** — *Lecturer (ICT & Mathematics)*  
 📍 *Machakos, Kenya (May–Dec 2024)*  
-- Designed and delivered ICT curriculum  
-- Integrated online collaboration tools into learning  
-- Supervised research and technical projects  
+- Delivered ICT curriculum, supervised ICT projects, supported system maintenance, 
+troubleshooting, software updates and other computer laboratory functions. 
+- Tutored diploma students taking statistics, Object oriented programming, Web
+development, probability and statistics & Mathematics. 
+- I mentored students through their capstone projects, guiding them in applying theoretical 
+knowledge of practical problems. This involved project management, troubleshooting 
+technical issues, and providing constructive feedback. Managing these projects 
+demonstrates my ability to oversee ICT projects, ensuring they are completed on time and 
+within scope, a crucial competency for all individuals. 
+- Participated in departmental meetings and training sessions. My position necessitated 
+regular collaboration with colleagues and administrative staff to coordinate schedules, 
+share resources, and streamline processes. This experience highlights my teamwork and 
+communication skills, which are essential for coordinating with different departments 
+within an energy company to ensure smooth ICT operations and address any technical 
+issues promptly 
+- Assisted in preparing user guides and basic documentation for example flyers. 
+- I also, under the supervision of the ICT HOD, was responsible for managing the 
+institution`s computer laboratory
 
 ### ⚖️ **Machakos Law Court (ICT Directorate)** — *IT Support Personnel*  
 📍 *Machakos, Kenya (Mar–May 2023)*  
-- Managed system troubleshooting and network connectivity  
-- Co-developed a feedback system for internal staff evaluations  
-- Assisted with firewall (Fortinet) and system configurations  
+- Supported LAN setup, troubleshooting, website updates, ICT inventory management. 
+- Supported senior IT staff with installation, configuration, and maintenance of computers 
+and operating systems. 
+- Assisted in resolving basic IT problems such as printing issues, software access 
+challenges, and network connectivity concerns. 
+- Also I assisted in the operation of Wamunyu small claims court by connecting the court 
+to the main Machakos station network eliminating bundle failure previously experienced 
+during virtual court hearings  
 
 ### 💡 **Newbirth Technical Institute** — *ICT Trainer*  
 📍 *Machakos, Kenya (Jan–Feb 2023)*  
@@ -67,8 +97,7 @@ A full-stack e-commerce solution designed with unique tiered pricing, cashback m
 ---
 
 ## 🧩 Other Notable Contributions
-- 🌐 Co-developed **institutional websites** (MHTI & Newbirth Technical Institute)  
-- ⚙️ Built **court staff feedback app** for Machakos Law Court ICT Directorate  
+- 🌐 Co-developed **institutional websites** (https://mhti.co.ke/ )    
 - 💬 Conducted **digital mentorship programs** with Compassion International  
 
 ---
@@ -76,7 +105,7 @@ A full-stack e-commerce solution designed with unique tiered pricing, cashback m
 ## 🎓 Education
 
 - 🎓 **Machakos University** — *BSc. Mathematics and Computer Science (2024)*  
-- 🎒 **Segero Adventist High School** — *KCSE (2018), Grade: B*
+- 🎒 **Segero Adventist High School** — *KCSE (2018)
 
 ---
 
@@ -97,9 +126,9 @@ A full-stack e-commerce solution designed with unique tiered pricing, cashback m
 
 - 🧠 IBM Data Science  
 - 🤖 ALX AI Essentials  
-- 🖥️ ALX Virtual Assistant  
+- 🖥️ CISCO Networking essentials 
 - 💻 PLP Software Engineering (Full Stack)
-
+  
 ---
 
 ## 🌍 Community Involvement
