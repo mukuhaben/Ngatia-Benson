@@ -113,12 +113,12 @@ during virtual court hearings
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap, Next.js |
-| **Backend** | Node.js, Express.js |
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap, Next.js,React & React native |
+| **Backend** | Node.js, Express.js,Typescript |
 | **Database** | PostgreSQL, MySQL Workbench |
 | **DevOps** | Render, Vercel, GitHub Actions |
 | **Version Control** | Git, GitHub, GitLab |
-| **Other Skills** | Troubleshooting, SQL Management, Data Analysis |
+| **Other Skills** | Troubleshooting, SQL Management, Data Analysis, Network administration |
 
 ---
 
@@ -128,6 +128,7 @@ during virtual court hearings
 - 🤖 ALX AI Essentials  
 - 🖥️ CISCO Networking essentials 
 - 💻 PLP Software Engineering (Full Stack)
+- Cybersecurity Essentials
   
 ---
 
